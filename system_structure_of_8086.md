@@ -14,7 +14,8 @@
     - 执行部件(Execution Unit,EU)
     - 总线接口部件(Bus Interface Unit,BIU)
 
-**IMPORTANT**:EU和BIU是构成二级流水线的硬件条件。
+**IMPORTANT**:构成二级流水线的硬件条件：(1)EU和BIU是各自独立的部件，因此可以同时工作；(2)指令队列寄存器
+
 
 ### BIU
 
